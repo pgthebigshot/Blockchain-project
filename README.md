@@ -1,5 +1,5 @@
 # Blockchain-project
-I have maid a smart contract which is the Great Indian Lucky Draw Contract and what does this contact is all abouts mensioned below.
+I have made a smart contract which is the Great Indian Lucky Draw Contract and what does this contact is all abouts mensioned below.
 The Great Indian Lucky Draw conducts is the most prominent lucky draw contest today. Its a transparent and reliable contest as the contest contract is a smart contract written on Ethereum Blockchain. It is a Winner Takes All Contest, where all the money that has entered the contract goes to the winner, with complete transparency.
 Rules of the Contest:
 Solidity Version should be between 0.5.0 to 0.6.0;
